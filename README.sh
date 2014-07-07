@@ -16,3 +16,6 @@ create-project-directory
 	|
 	|-- project-config.sh (此脚本是用来执行前面两个命令，并且初始化仓库)
 
+在进行项目前期配置的时候只需要执行project-config.sh  即项目的全部配置 
+
+这个脚本使用的是绝对地址，所以此脚本项目不能在其他的项目中使用
